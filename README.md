@@ -1,11 +1,10 @@
-### NAME_OF_YOUR_APP_HERE
-HELLO WORLD APP
+## HELLO WORLD APP
 ### App Description
 `TODO://` Add app description
 HELLO WORLD app lets users change the text color when clicking a button.
 ### App Walk-though
 
-<img src="https://i.imgur.com/OW0Awf7.gifv" width=200><br>
+<img src="https://github.com/julia-ae/codepath-prework/blob/main/HELLO%20WORLD%20DEMO.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
