@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+### NAME_OF_YOUR_APP_HERE
 HELLO WORLD APP
 ### App Description
 `TODO://` Add app description
