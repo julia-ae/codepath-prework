@@ -1,6 +1,5 @@
 ## HELLO WORLD APP
 ### App Description
-`TODO://` Add app description
 HELLO WORLD app lets users change the text color when clicking a button.
 ### App Walk-though
 
